@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Salman Hossain
 #### Web Designer
-![Web Designer](https://scontent.fdac75-1.fna.fbcdn.net/v/t1.6435-9/192072077_1033826850757629_2959002305918674899_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGdyhDR-m1kqqcS8xlS49P_x0_8GMsycY7HT_wYyzJxjuPlJ_6GAtnHDwjKzsdpApCpSzO_re3YtV9gQ6WF7FjB&_nc_ohc=l7JUupJw_xMAX-G7c4z&_nc_ht=scontent.fdac75-1.fna&oh=94dad443261efbaff2e94e9e27877f5c&oe=615056E3)
+![Web Designer](https)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
@@ -12,5 +12,11 @@ Skills: JS / HTML / CSS
 - 💬 Ask me about Web Design 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdsalmanhossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/alwayssalmanhossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alwayssalmanhossain/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdsalmanhossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/alwaysmdsalmanhossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alwaysmdsalmanhossain/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsalmanhossain)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsalmanhossain&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdsalmanhossain)  
 
